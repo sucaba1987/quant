@@ -1,1 +1,0 @@
-Regression Analysis by Example
